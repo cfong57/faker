@@ -1,7 +1,30 @@
 en:
   faker:
     song:
-      slapchop: ["Hi, it's Vince with S-s-s-s-sl-sl-sl-slap-slap-cho-chop-chop-ch-ch-ch", "Watch this", "Hi, it's Vince with Slap Chop", "You're gonna be in a great mood all day", "Cause you're gonna be slapping your troubles away with the Slap-", "Slap-slapping your troubles away with the Slap Chop", "Now look, here's a potato", "One slap, you got big chunks for stew", "Two slaps, home fries", "Just a second, and look at this", "If you add a mushroom, the more you do it, the finer it gets, you don't have to switch any blades", "Now - you love salad", "You hate making salad", "You know you hate making salad", "You hate making salad", "So you don't have any salad in your diet", "Watch this, one slap, salad", "Soup, coleslaw, done in like 5 seconds", "4-5 seconds, it's done", "This thing, this tuna, looks boring", "Stop having a boring tuna, stop having a boring life", "Add this tuna, hit it like this", "Now you're gonna have a nice, big exciting life now", "Here's a hardboiled egg", "One chop, add the pickle, you add the pickle", "The more that you do it, you can mix things together", "You add the ham", "And you're gonna love this", "Don't have time to make breakfast - breakfast to go", "Watch this, you're gonna love my nuts", "Watch this, you're gonna watch this, you're gonna watch this, watch this, watch this, watch this, watch this", "So we got the fruit, fruit on the go", "Watch this, watch this, watch this, watch this", "Look at that, isn't that beautiful on your ice cream", "The reason you're gonna slap away every day - is because it's so easy to clean", "One, two, and - pops open, like that", "Now these other ones you seen in the stores, bacteria gets in the food", "All the stores have this, you can't clean it", "You can't open this up", "It's worthless, forget about it", "Now take the Slap Chop, put it back together", "Put the Slap Chop right there", "Let's put the slap chop right there", "The skin's at the bottom", "The skin comes right off", "Now put a tomato in there, add your cilantro, your hot peppers right there", "You hit it like this, hit it like this, hit it like this, hit it like this", "Guys, we're gonna make America skinny again, one slap at a time", "It's, guys we're, once 'Merica, once skinny again, one slap at a, one slap at a", "Guys, we're, guys, we're, 'Mer, once, 'Mer, one slap at a, slap, at a, slap slap slap slap"]
+      slapchop: ["Hi, it's Vince with S-s-s-s-sl-sl-sl-slap-slap-cho-chop-chop-ch-ch-ch", "Watch this",
+      "Hi, it's Vince with Slap Chop", "You're gonna be in a great mood all day",
+      "Cause you're gonna be slapping your troubles away with the Slap",
+      "Slap-slapping your troubles away with the Slap Chop", "Now look, here's a potato",
+      "One slap, you got big chunks for stew", "Two slaps, home fries", "Just a second, and look at this",
+      "If you add a mushroom, the more you do it, the finer it gets, you don't have to switch any blades",
+      "Now - you love salad", "You hate making salad", "You know you hate making salad",
+      "So you don't have any salad in your diet", "Watch this, one slap, salad",
+      "Soup, coleslaw, done in like 5 seconds", "4-5 seconds, it's done", "This thing, this tuna, looks boring",
+      "Stop having a boring tuna, stop having a boring life", "Add this tuna, hit it like this",
+      "Now you're gonna have a nice, big exciting life now", "Here's a hardboiled egg",
+      "One chop, add the pickle, you add the pickle", "The more that you do it, you can mix things together",
+      "You add the ham", "And you're gonna love this", "Don't have time to make breakfast - breakfast to go",
+      "Watch this, you're gonna love my nuts",
+      "Watch this, you're gonna watch this", "You're gonna watch this", "So we got the fruit, fruit on the go",
+      "Look at that, isn't that beautiful on your ice cream",
+      "The reason you're gonna slap away every day - is because it's so easy to clean",
+      "One, two, and - pops open, like that", "Now these other ones you seen in the stores, bacteria gets in the food",
+      "All the stores have this, you can't clean it", "You can't open this up", "It's worthless, forget about it",
+      "Now take the Slap Chop, put it back together", "Put the Slap Chop right there", "Let's put the slap chop right there",
+      "The skin's at the bottom", "The skin comes right off", "Now put a tomato in there, add your cilantro, your hot peppers right there",
+      "You hit it like this", "Hit it like this", "Guys, we're gonna make America skinny again, one slap at a time",
+      "It's, guys we're, once 'Merica, once skinny again, one slap at a, one slap at a",
+      "Guys, we're, guys, we're, 'Mer, once, 'Mer, one slap at a, slap, at a, slap slap slap slap"]
     address:
       city_prefix: [North, East, West, South, New, Lake, Port]
       city_suffix: [town, ton, land, ville, berg, burgh, borough, bury, view, port, mouth, stad, furt, chester, mouth, fort, haven, side, shire]
